@@ -1,0 +1,7 @@
+﻿'Natural_Counters.exe' (CoreCLR: DefaultDomain): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.7\System.Private.CoreLib.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Natural_Counters.exe' (CoreCLR: clrhost): 'C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\bin\Debug\net5.0\Natural_Counters.dll' cargado. Símbolos cargados.
+'Natural_Counters.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.7\System.Runtime.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Natural_Counters.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.7\System.Console.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Natural_Counters.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.7\System.Threading.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Natural_Counters.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.7\System.Text.Encoding.Extensions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+El programa '[4496] Natural_Counters.exe' terminó con código 0 (0x0).
