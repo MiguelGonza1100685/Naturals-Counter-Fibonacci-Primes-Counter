@@ -1,0 +1,16 @@
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\bin\Debug\net5.0\Natural_Counters.exe
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\bin\Debug\net5.0\Natural_Counters.deps.json
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\bin\Debug\net5.0\Natural_Counters.runtimeconfig.json
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\bin\Debug\net5.0\Natural_Counters.runtimeconfig.dev.json
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\bin\Debug\net5.0\Natural_Counters.dll
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\bin\Debug\net5.0\ref\Natural_Counters.dll
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\bin\Debug\net5.0\Natural_Counters.pdb
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\obj\Debug\net5.0\Natural_Counters.csproj.AssemblyReference.cache
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\obj\Debug\net5.0\Natural_Counters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\obj\Debug\net5.0\Natural_Counters.AssemblyInfoInputs.cache
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\obj\Debug\net5.0\Natural_Counters.AssemblyInfo.cs
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\obj\Debug\net5.0\Natural_Counters.csproj.CoreCompileInputs.cache
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\obj\Debug\net5.0\Natural_Counters.dll
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\obj\Debug\net5.0\ref\Natural_Counters.dll
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\obj\Debug\net5.0\Natural_Counters.pdb
+C:\Users\Miguelangel\Desktop\Naturals_Counter\Natural_Counters\obj\Debug\net5.0\Natural_Counters.genruntimeconfig.cache
